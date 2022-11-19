@@ -23,4 +23,7 @@ Car Resale value Prediction
           JEEVITHA.N
           NIRANJAN.M
  
- Video Link : [Click here](https://youtu.be/TeCI6dC0R0I)
+Demo Video Link : [Click here](https://youtu.be/TeCI6dC0R0I)
+
+
+Web app Link:[Click here](https://carreeeeee.herokuapp.com/)
